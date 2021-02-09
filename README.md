@@ -12,4 +12,4 @@
 
 
 App Walkthrough:
-<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/nOq26lVQ.gif" width=250><br>
+<img src="https://imgur.com/a/PN4s9FG" width=250><br>
