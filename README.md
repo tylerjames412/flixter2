@@ -12,4 +12,4 @@
 
 
 App Walkthrough:
-<img src="https://imgur.com/a/PN4s9FG" width=250><br>
+https://imgur.com/a/PN4s9FG
